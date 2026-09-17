@@ -1,6 +1,6 @@
 # **Match & Drop Game** 🎮  
 
-Bu proje, Unity ile geliştirilmiş bir eşleştirme ve düşürme mekanizmasına sahip bir oyundur. Oyuncular,, sahnede rastgele oluşturulmuş nesneleri bir kutuya yerleştirerek eşleştirme yapar ve puan kazanır. ---
+Bu proje, Unity ile geliştirilmiş bir eşleştirme ve düşürme mekanizmasına sahip bir oyundur. Oyuncular,, sahnede rastgele oluşturulmuş nesneleri bir kutuya yerleştirerek eşleştirme yapar ve puan kazanır.
 
 ## **Özellikler** ✨  
 
@@ -30,7 +30,7 @@ Bu proje, Unity ile geliştirilmiş bir eşleştirme ve düşürme mekanizmasın
 
 ## **Kullanım** 🎮  
 
-- **Oyunu Bu Linkten Oynayabilirsiniz**:  https://simsekecem.github.io/bakircay-2024-gd--220601071-/
+- **Oyunu Bu Linkten Oynayabilirsiniz**:  https://simsekecem.github.io/DropMatch/
 
 ### **Oyun Mekanikleri**  
 - **Nesneleri Taşıma**:  
